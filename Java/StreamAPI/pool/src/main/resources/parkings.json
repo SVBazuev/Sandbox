@@ -1,0 +1,1145 @@
+[
+  {
+    "id": 1,
+    "companyName": "Premium Rent",
+    "location": "55.819713, 37.317508",
+    "numberSpaces": 28,
+    "freeSpaces": 11,
+    "cars": [
+      {
+        "brand": "BMW",
+        "model": "3 Series",
+        "bodyType": "hatchback",
+        "color": "beige",
+        "mileage": 35741,
+        "manufactureYear": 2022,
+        "rentPerDay": 4987.38
+      },
+      {
+        "brand": "Honda",
+        "model": "Fit",
+        "bodyType": "minivan",
+        "color": "black",
+        "mileage": 174561,
+        "manufactureYear": 1976,
+        "rentPerDay": 1717.76
+      },
+      {
+        "brand": "BMW",
+        "model": "3 Series",
+        "bodyType": "crossover",
+        "color": "orange",
+        "mileage": 297127,
+        "manufactureYear": 1976,
+        "rentPerDay": 2634.71
+      },
+      {
+        "brand": "BMW",
+        "model": "i8",
+        "bodyType": "minivan",
+        "color": "gray",
+        "mileage": 234472,
+        "manufactureYear": 2003,
+        "rentPerDay": 3579.63
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "C-Class",
+        "bodyType": "SUV",
+        "color": "burgundy",
+        "mileage": 169194,
+        "manufactureYear": 2002,
+        "rentPerDay": 3800.37
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "E-Class",
+        "bodyType": "coupe",
+        "color": "gold",
+        "mileage": 176793,
+        "manufactureYear": 1996,
+        "rentPerDay": 3593.24
+      },
+      {
+        "brand": "Honda",
+        "model": "Pilot",
+        "bodyType": "hatchback",
+        "color": "red",
+        "mileage": 308263,
+        "manufactureYear": 1997,
+        "rentPerDay": 1795.29
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "C-Class",
+        "bodyType": "pickup",
+        "color": "brown",
+        "mileage": 249230,
+        "manufactureYear": 1982,
+        "rentPerDay": 2944.97
+      },
+      {
+        "brand": "Honda",
+        "model": "Fit",
+        "bodyType": "convertible",
+        "color": "purple",
+        "mileage": 111070,
+        "manufactureYear": 2015,
+        "rentPerDay": 2533.43
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model X",
+        "bodyType": "coupe",
+        "color": "burgundy",
+        "mileage": 162012,
+        "manufactureYear": 1979,
+        "rentPerDay": 3134.52
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Malibu",
+        "bodyType": "convertible",
+        "color": "white",
+        "mileage": 176476,
+        "manufactureYear": 1989,
+        "rentPerDay": 1935.12
+      },
+      {
+        "brand": "Volkswagen",
+        "model": "Tiguan",
+        "bodyType": "pickup",
+        "color": "beige",
+        "mileage": 192638,
+        "manufactureYear": 1998,
+        "rentPerDay": 2053.81
+      },
+      {
+        "brand": "Audi",
+        "model": "A6",
+        "bodyType": "coupe",
+        "color": "beige",
+        "mileage": 333977,
+        "manufactureYear": 1992,
+        "rentPerDay": 2922.74
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model S",
+        "bodyType": "SUV",
+        "color": "brown",
+        "mileage": 16043,
+        "manufactureYear": 2021,
+        "rentPerDay": 5039.73
+      },
+      {
+        "brand": "Ford",
+        "model": "Explorer",
+        "bodyType": "minivan",
+        "color": "blue",
+        "mileage": 120198,
+        "manufactureYear": 2015,
+        "rentPerDay": 2511.52
+      },
+      {
+        "brand": "Hyundai",
+        "model": "Elantra",
+        "bodyType": "wagon",
+        "color": "purple",
+        "mileage": 3665,
+        "manufactureYear": 2024,
+        "rentPerDay": 2970.64
+      },
+      {
+        "brand": "BMW",
+        "model": "X5",
+        "bodyType": "wagon",
+        "color": "green",
+        "mileage": 167350,
+        "manufactureYear": 1992,
+        "rentPerDay": 3507.6
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "companyName": "Economy Cars",
+    "location": "55.605491, 37.960037",
+    "numberSpaces": 48,
+    "freeSpaces": 18,
+    "cars": [
+      {
+        "brand": "BMW",
+        "model": "X3",
+        "bodyType": "minivan",
+        "color": "beige",
+        "mileage": 117452,
+        "manufactureYear": 2004,
+        "rentPerDay": 4060.46
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "E-Class",
+        "bodyType": "coupe",
+        "color": "burgundy",
+        "mileage": 100644,
+        "manufactureYear": 2010,
+        "rentPerDay": 4317.39
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "GLE",
+        "bodyType": "minivan",
+        "color": "orange",
+        "mileage": 174895,
+        "manufactureYear": 2000,
+        "rentPerDay": 3719.14
+      },
+      {
+        "brand": "BMW",
+        "model": "3 Series",
+        "bodyType": "crossover",
+        "color": "yellow",
+        "mileage": 348123,
+        "manufactureYear": 1980,
+        "rentPerDay": 2578.41
+      },
+      {
+        "brand": "Toyota",
+        "model": "Camry",
+        "bodyType": "SUV",
+        "color": "beige",
+        "mileage": 328384,
+        "manufactureYear": 1985,
+        "rentPerDay": 1580.76
+      },
+      {
+        "brand": "Volkswagen",
+        "model": "Touareg",
+        "bodyType": "hatchback",
+        "color": "green",
+        "mileage": 306208,
+        "manufactureYear": 1999,
+        "rentPerDay": 1829.09
+      },
+      {
+        "brand": "Nissan",
+        "model": "GT-R",
+        "bodyType": "convertible",
+        "color": "brown",
+        "mileage": 328332,
+        "manufactureYear": 1975,
+        "rentPerDay": 1437.15
+      },
+      {
+        "brand": "Mazda",
+        "model": "3",
+        "bodyType": "crossover",
+        "color": "gold",
+        "mileage": 318024,
+        "manufactureYear": 1992,
+        "rentPerDay": 1702.13
+      },
+      {
+        "brand": "Audi",
+        "model": "A4",
+        "bodyType": "convertible",
+        "color": "green",
+        "mileage": 268940,
+        "manufactureYear": 1985,
+        "rentPerDay": 2962.5
+      },
+      {
+        "brand": "Toyota",
+        "model": "RAV4",
+        "bodyType": "crossover",
+        "color": "gold",
+        "mileage": 283085,
+        "manufactureYear": 1986,
+        "rentPerDay": 1681.33
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model S",
+        "bodyType": "convertible",
+        "color": "purple",
+        "mileage": 96540,
+        "manufactureYear": 2015,
+        "rentPerDay": 4494.53
+      },
+      {
+        "brand": "Kia",
+        "model": "Sportage",
+        "bodyType": "SUV",
+        "color": "red",
+        "mileage": 10587,
+        "manufactureYear": 2023,
+        "rentPerDay": 2933.14
+      },
+      {
+        "brand": "Hyundai",
+        "model": "i30",
+        "bodyType": "sedan",
+        "color": "orange",
+        "mileage": 278085,
+        "manufactureYear": 1995,
+        "rentPerDay": 1827.94
+      },
+      {
+        "brand": "Toyota",
+        "model": "Camry",
+        "bodyType": "wagon",
+        "color": "purple",
+        "mileage": 212770,
+        "manufactureYear": 1994,
+        "rentPerDay": 1945.95
+      },
+      {
+        "brand": "Toyota",
+        "model": "Corolla",
+        "bodyType": "hatchback",
+        "color": "white",
+        "mileage": 31849,
+        "manufactureYear": 2021,
+        "rentPerDay": 2840.29
+      },
+      {
+        "brand": "Lexus",
+        "model": "RX",
+        "bodyType": "crossover",
+        "color": "gold",
+        "mileage": 183657,
+        "manufactureYear": 1983,
+        "rentPerDay": 3184.95
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Spark",
+        "bodyType": "crossover",
+        "color": "silver",
+        "mileage": 288326,
+        "manufactureYear": 1991,
+        "rentPerDay": 1746.64
+      },
+      {
+        "brand": "Lexus",
+        "model": "LX",
+        "bodyType": "minivan",
+        "color": "gray",
+        "mileage": 132730,
+        "manufactureYear": 2009,
+        "rentPerDay": 4156.43
+      },
+      {
+        "brand": "Mazda",
+        "model": "CX-5",
+        "bodyType": "minivan",
+        "color": "beige",
+        "mileage": 78944,
+        "manufactureYear": 2016,
+        "rentPerDay": 2629.18
+      },
+      {
+        "brand": "Nissan",
+        "model": "GT-R",
+        "bodyType": "pickup",
+        "color": "white",
+        "mileage": 208903,
+        "manufactureYear": 1990,
+        "rentPerDay": 1888.16
+      },
+      {
+        "brand": "Honda",
+        "model": "CR-V",
+        "bodyType": "sedan",
+        "color": "orange",
+        "mileage": 60161,
+        "manufactureYear": 2010,
+        "rentPerDay": 2560.77
+      },
+      {
+        "brand": "Kia",
+        "model": "Sportage",
+        "bodyType": "sedan",
+        "color": "white",
+        "mileage": 41359,
+        "manufactureYear": 2020,
+        "rentPerDay": 2797.19
+      },
+      {
+        "brand": "Toyota",
+        "model": "Corolla",
+        "bodyType": "hatchback",
+        "color": "black",
+        "mileage": 168574,
+        "manufactureYear": 1996,
+        "rentPerDay": 2070.33
+      },
+      {
+        "brand": "Hyundai",
+        "model": "Elantra",
+        "bodyType": "convertible",
+        "color": "beige",
+        "mileage": 136160,
+        "manufactureYear": 2006,
+        "rentPerDay": 2314.22
+      },
+      {
+        "brand": "Hyundai",
+        "model": "Elantra",
+        "bodyType": "pickup",
+        "color": "gray",
+        "mileage": 30996,
+        "manufactureYear": 2025,
+        "rentPerDay": 2920.3
+      },
+      {
+        "brand": "Subaru",
+        "model": "Legacy",
+        "bodyType": "coupe",
+        "color": "white",
+        "mileage": 322748,
+        "manufactureYear": 1981,
+        "rentPerDay": 1533.52
+      },
+      {
+        "brand": "Volkswagen",
+        "model": "Tiguan",
+        "bodyType": "minivan",
+        "color": "green",
+        "mileage": 94200,
+        "manufactureYear": 2004,
+        "rentPerDay": 2371.68
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Cruze",
+        "bodyType": "sedan",
+        "color": "green",
+        "mileage": 22236,
+        "manufactureYear": 2021,
+        "rentPerDay": 2864.35
+      },
+      {
+        "brand": "Subaru",
+        "model": "Impreza",
+        "bodyType": "coupe",
+        "color": "gray",
+        "mileage": 290584,
+        "manufactureYear": 1987,
+        "rentPerDay": 1682.08
+      },
+      {
+        "brand": "Nissan",
+        "model": "X-Trail",
+        "bodyType": "minivan",
+        "color": "silver",
+        "mileage": 271275,
+        "manufactureYear": 1992,
+        "rentPerDay": 1795.9
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "companyName": "Luxury Auto",
+    "location": "55.624903, 37.946286",
+    "numberSpaces": 34,
+    "freeSpaces": 7,
+    "cars": [
+      {
+        "brand": "Honda",
+        "model": "Civic",
+        "bodyType": "crossover",
+        "color": "purple",
+        "mileage": 174448,
+        "manufactureYear": 1975,
+        "rentPerDay": 1700.95
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model 3",
+        "bodyType": "SUV",
+        "color": "green",
+        "mileage": 206185,
+        "manufactureYear": 2006,
+        "rentPerDay": 3774.69
+      },
+      {
+        "brand": "BMW",
+        "model": "X3",
+        "bodyType": "sedan",
+        "color": "silver",
+        "mileage": 150565,
+        "manufactureYear": 1999,
+        "rentPerDay": 3779.9
+      },
+      {
+        "brand": "Volkswagen",
+        "model": "Tiguan",
+        "bodyType": "pickup",
+        "color": "blue",
+        "mileage": 225691,
+        "manufactureYear": 2002,
+        "rentPerDay": 2048.64
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Spark",
+        "bodyType": "SUV",
+        "color": "gray",
+        "mileage": 207068,
+        "manufactureYear": 1993,
+        "rentPerDay": 1941.13
+      },
+      {
+        "brand": "Toyota",
+        "model": "Prius",
+        "bodyType": "crossover",
+        "color": "black",
+        "mileage": 20552,
+        "manufactureYear": 2022,
+        "rentPerDay": 2888.21
+      },
+      {
+        "brand": "Toyota",
+        "model": "Camry",
+        "bodyType": "pickup",
+        "color": "brown",
+        "mileage": 121270,
+        "manufactureYear": 2008,
+        "rentPerDay": 2383.5
+      },
+      {
+        "brand": "Toyota",
+        "model": "Prius",
+        "bodyType": "hatchback",
+        "color": "purple",
+        "mileage": 167962,
+        "manufactureYear": 1986,
+        "rentPerDay": 1900.39
+      },
+      {
+        "brand": "Kia",
+        "model": "Optima",
+        "bodyType": "coupe",
+        "color": "green",
+        "mileage": 299336,
+        "manufactureYear": 1982,
+        "rentPerDay": 1590.93
+      },
+      {
+        "brand": "BMW",
+        "model": "i8",
+        "bodyType": "sedan",
+        "color": "orange",
+        "mileage": 259897,
+        "manufactureYear": 1980,
+        "rentPerDay": 2856.32
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Camaro",
+        "bodyType": "crossover",
+        "color": "red",
+        "mileage": 203545,
+        "manufactureYear": 1991,
+        "rentPerDay": 1915.24
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Tahoe",
+        "bodyType": "coupe",
+        "color": "blue",
+        "mileage": 114308,
+        "manufactureYear": 2000,
+        "rentPerDay": 2255.05
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Tahoe",
+        "bodyType": "pickup",
+        "color": "red",
+        "mileage": 4754,
+        "manufactureYear": 2023,
+        "rentPerDay": 2947.94
+      },
+      {
+        "brand": "Toyota",
+        "model": "Land Cruiser",
+        "bodyType": "hatchback",
+        "color": "white",
+        "mileage": 135877,
+        "manufactureYear": 2009,
+        "rentPerDay": 2367.87
+      },
+      {
+        "brand": "Hyundai",
+        "model": "Tucson",
+        "bodyType": "SUV",
+        "color": "red",
+        "mileage": 214037,
+        "manufactureYear": 1979,
+        "rentPerDay": 1698.4
+      },
+      {
+        "brand": "Audi",
+        "model": "A6",
+        "bodyType": "SUV",
+        "color": "yellow",
+        "mileage": 159303,
+        "manufactureYear": 2009,
+        "rentPerDay": 4049.6
+      },
+      {
+        "brand": "Kia",
+        "model": "Stinger",
+        "bodyType": "sedan",
+        "color": "beige",
+        "mileage": 69240,
+        "manufactureYear": 2010,
+        "rentPerDay": 2539.76
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model S",
+        "bodyType": "SUV",
+        "color": "blue",
+        "mileage": 178058,
+        "manufactureYear": 1982,
+        "rentPerDay": 3173.43
+      },
+      {
+        "brand": "Mazda",
+        "model": "CX-9",
+        "bodyType": "SUV",
+        "color": "blue",
+        "mileage": 308552,
+        "manufactureYear": 1993,
+        "rentPerDay": 1735.84
+      },
+      {
+        "brand": "BMW",
+        "model": "5 Series",
+        "bodyType": "coupe",
+        "color": "beige",
+        "mileage": 141792,
+        "manufactureYear": 2015,
+        "rentPerDay": 4304.47
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "GLE",
+        "bodyType": "pickup",
+        "color": "blue",
+        "mileage": 174195,
+        "manufactureYear": 1978,
+        "rentPerDay": 3066.74
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Spark",
+        "bodyType": "convertible",
+        "color": "black",
+        "mileage": 237439,
+        "manufactureYear": 1975,
+        "rentPerDay": 1592.96
+      },
+      {
+        "brand": "Subaru",
+        "model": "Outback",
+        "bodyType": "convertible",
+        "color": "silver",
+        "mileage": 28956,
+        "manufactureYear": 2022,
+        "rentPerDay": 2867.03
+      },
+      {
+        "brand": "Hyundai",
+        "model": "Santa Fe",
+        "bodyType": "crossover",
+        "color": "black",
+        "mileage": 169724,
+        "manufactureYear": 1982,
+        "rentPerDay": 1828.68
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model 3",
+        "bodyType": "crossover",
+        "color": "black",
+        "mileage": 302701,
+        "manufactureYear": 1998,
+        "rentPerDay": 3188.03
+      },
+      {
+        "brand": "Hyundai",
+        "model": "Elantra",
+        "bodyType": "minivan",
+        "color": "silver",
+        "mileage": 230808,
+        "manufactureYear": 1977,
+        "rentPerDay": 1636.42
+      },
+      {
+        "brand": "Audi",
+        "model": "A4",
+        "bodyType": "wagon",
+        "color": "gray",
+        "mileage": 62706,
+        "manufactureYear": 2018,
+        "rentPerDay": 4735.99
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "companyName": "Family Rent",
+    "location": "55.833467, 37.547575",
+    "numberSpaces": 37,
+    "freeSpaces": 0,
+    "cars": [
+      {
+        "brand": "Volkswagen",
+        "model": "Touareg",
+        "bodyType": "SUV",
+        "color": "gray",
+        "mileage": 196413,
+        "manufactureYear": 1985,
+        "rentPerDay": 1829.62
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model Y",
+        "bodyType": "sedan",
+        "color": "silver",
+        "mileage": 21770,
+        "manufactureYear": 2022,
+        "rentPerDay": 5048.99
+      },
+      {
+        "brand": "Subaru",
+        "model": "Legacy",
+        "bodyType": "coupe",
+        "color": "blue",
+        "mileage": 333835,
+        "manufactureYear": 1985,
+        "rentPerDay": 1570.48
+      },
+      {
+        "brand": "Honda",
+        "model": "Pilot",
+        "bodyType": "sedan",
+        "color": "purple",
+        "mileage": 138309,
+        "manufactureYear": 2005,
+        "rentPerDay": 2291.77
+      },
+      {
+        "brand": "BMW",
+        "model": "X3",
+        "bodyType": "wagon",
+        "color": "blue",
+        "mileage": 14915,
+        "manufactureYear": 2025,
+        "rentPerDay": 5182.88
+      },
+      {
+        "brand": "BMW",
+        "model": "X5",
+        "bodyType": "coupe",
+        "color": "green",
+        "mileage": 223034,
+        "manufactureYear": 1996,
+        "rentPerDay": 3425.39
+      },
+      {
+        "brand": "Lexus",
+        "model": "RX",
+        "bodyType": "convertible",
+        "color": "red",
+        "mileage": 96768,
+        "manufactureYear": 2016,
+        "rentPerDay": 4525.67
+      },
+      {
+        "brand": "Volkswagen",
+        "model": "Touareg",
+        "bodyType": "wagon",
+        "color": "black",
+        "mileage": 218475,
+        "manufactureYear": 1982,
+        "rentPerDay": 1739.25
+      },
+      {
+        "brand": "Ford",
+        "model": "Mustang",
+        "bodyType": "convertible",
+        "color": "black",
+        "mileage": 306387,
+        "manufactureYear": 1981,
+        "rentPerDay": 1563.25
+      },
+      {
+        "brand": "Volkswagen",
+        "model": "Tiguan",
+        "bodyType": "wagon",
+        "color": "green",
+        "mileage": 97033,
+        "manufactureYear": 2013,
+        "rentPerDay": 2530.45
+      },
+      {
+        "brand": "Honda",
+        "model": "Pilot",
+        "bodyType": "coupe",
+        "color": "blue",
+        "mileage": 335803,
+        "manufactureYear": 1977,
+        "rentPerDay": 1452.82
+      },
+      {
+        "brand": "Volkswagen",
+        "model": "Golf",
+        "bodyType": "crossover",
+        "color": "gold",
+        "mileage": 131651,
+        "manufactureYear": 2009,
+        "rentPerDay": 2377.58
+      },
+      {
+        "brand": "Audi",
+        "model": "Q7",
+        "bodyType": "hatchback",
+        "color": "beige",
+        "mileage": 313356,
+        "manufactureYear": 1996,
+        "rentPerDay": 3097.52
+      },
+      {
+        "brand": "Audi",
+        "model": "A4",
+        "bodyType": "convertible",
+        "color": "brown",
+        "mileage": 324821,
+        "manufactureYear": 1994,
+        "rentPerDay": 3005.39
+      },
+      {
+        "brand": "Volkswagen",
+        "model": "Tiguan",
+        "bodyType": "minivan",
+        "color": "burgundy",
+        "mileage": 295335,
+        "manufactureYear": 1993,
+        "rentPerDay": 1762.58
+      },
+      {
+        "brand": "Ford",
+        "model": "Fusion",
+        "bodyType": "minivan",
+        "color": "beige",
+        "mileage": 327554,
+        "manufactureYear": 1999,
+        "rentPerDay": 1783.71
+      },
+      {
+        "brand": "Mazda",
+        "model": "6",
+        "bodyType": "convertible",
+        "color": "green",
+        "mileage": 139278,
+        "manufactureYear": 2010,
+        "rentPerDay": 2377.67
+      },
+      {
+        "brand": "Toyota",
+        "model": "RAV4",
+        "bodyType": "convertible",
+        "color": "gray",
+        "mileage": 232039,
+        "manufactureYear": 2002,
+        "rentPerDay": 2034.82
+      },
+      {
+        "brand": "Kia",
+        "model": "Rio",
+        "bodyType": "pickup",
+        "color": "yellow",
+        "mileage": 136020,
+        "manufactureYear": 2003,
+        "rentPerDay": 2261.53
+      },
+      {
+        "brand": "Hyundai",
+        "model": "Santa Fe",
+        "bodyType": "SUV",
+        "color": "beige",
+        "mileage": 224392,
+        "manufactureYear": 1980,
+        "rentPerDay": 1696.09
+      },
+      {
+        "brand": "Hyundai",
+        "model": "i30",
+        "bodyType": "wagon",
+        "color": "white",
+        "mileage": 15392,
+        "manufactureYear": 2023,
+        "rentPerDay": 2920.95
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Tahoe",
+        "bodyType": "coupe",
+        "color": "gold",
+        "mileage": 188627,
+        "manufactureYear": 1987,
+        "rentPerDay": 1877.84
+      },
+      {
+        "brand": "Toyota",
+        "model": "Camry",
+        "bodyType": "coupe",
+        "color": "yellow",
+        "mileage": 141376,
+        "manufactureYear": 2014,
+        "rentPerDay": 2443.12
+      },
+      {
+        "brand": "Subaru",
+        "model": "Impreza",
+        "bodyType": "pickup",
+        "color": "green",
+        "mileage": 105454,
+        "manufactureYear": 2015,
+        "rentPerDay": 2546.91
+      },
+      {
+        "brand": "BMW",
+        "model": "X3",
+        "bodyType": "pickup",
+        "color": "green",
+        "mileage": 188684,
+        "manufactureYear": 1990,
+        "rentPerDay": 3374.04
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Cruze",
+        "bodyType": "hatchback",
+        "color": "gold",
+        "mileage": 137367,
+        "manufactureYear": 2002,
+        "rentPerDay": 2240.93
+      },
+      {
+        "brand": "Ford",
+        "model": "Mustang",
+        "bodyType": "pickup",
+        "color": "black",
+        "mileage": 62662,
+        "manufactureYear": 2010,
+        "rentPerDay": 2554.98
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model S",
+        "bodyType": "pickup",
+        "color": "silver",
+        "mileage": 219233,
+        "manufactureYear": 2004,
+        "rentPerDay": 3666.57
+      },
+      {
+        "brand": "Hyundai",
+        "model": "i30",
+        "bodyType": "wagon",
+        "color": "gold",
+        "mileage": 240603,
+        "manufactureYear": 2003,
+        "rentPerDay": 2032.05
+      },
+      {
+        "brand": "Lexus",
+        "model": "LX",
+        "bodyType": "minivan",
+        "color": "purple",
+        "mileage": 88446,
+        "manufactureYear": 2010,
+        "rentPerDay": 4366.79
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model 3",
+        "bodyType": "pickup",
+        "color": "yellow",
+        "mileage": 347073,
+        "manufactureYear": 1991,
+        "rentPerDay": 2852.19
+      },
+      {
+        "brand": "BMW",
+        "model": "5 Series",
+        "bodyType": "crossover",
+        "color": "yellow",
+        "mileage": 61358,
+        "manufactureYear": 2015,
+        "rentPerDay": 4642.3
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "S-Class",
+        "bodyType": "hatchback",
+        "color": "burgundy",
+        "mileage": 211471,
+        "manufactureYear": 1993,
+        "rentPerDay": 3381.39
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "GLC",
+        "bodyType": "wagon",
+        "color": "brown",
+        "mileage": 186273,
+        "manufactureYear": 1980,
+        "rentPerDay": 3088.24
+      },
+      {
+        "brand": "Ford",
+        "model": "Fusion",
+        "bodyType": "minivan",
+        "color": "burgundy",
+        "mileage": 335183,
+        "manufactureYear": 1984,
+        "rentPerDay": 1553.69
+      },
+      {
+        "brand": "BMW",
+        "model": "X5",
+        "bodyType": "minivan",
+        "color": "green",
+        "mileage": 292242,
+        "manufactureYear": 1996,
+        "rentPerDay": 3174.16
+      },
+      {
+        "brand": "Nissan",
+        "model": "Juke",
+        "bodyType": "sedan",
+        "color": "gray",
+        "mileage": 182099,
+        "manufactureYear": 2001,
+        "rentPerDay": 2126.67
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "companyName": "SportCar Rental",
+    "location": "55.952419, 37.708856",
+    "numberSpaces": 42,
+    "freeSpaces": 31,
+    "cars": [
+      {
+        "brand": "Lexus",
+        "model": "LX",
+        "bodyType": "minivan",
+        "color": "yellow",
+        "mileage": 242211,
+        "manufactureYear": 1975,
+        "rentPerDay": 2773.37
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "S-Class",
+        "bodyType": "minivan",
+        "color": "brown",
+        "mileage": 48144,
+        "manufactureYear": 2022,
+        "rentPerDay": 4932.68
+      },
+      {
+        "brand": "Hyundai",
+        "model": "i30",
+        "bodyType": "coupe",
+        "color": "yellow",
+        "mileage": 221548,
+        "manufactureYear": 1989,
+        "rentPerDay": 1847.03
+      },
+      {
+        "brand": "Volkswagen",
+        "model": "Polo",
+        "bodyType": "sedan",
+        "color": "green",
+        "mileage": 325341,
+        "manufactureYear": 1996,
+        "rentPerDay": 1745.15
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Spark",
+        "bodyType": "SUV",
+        "color": "purple",
+        "mileage": 113456,
+        "manufactureYear": 2004,
+        "rentPerDay": 2329.1
+      },
+      {
+        "brand": "Kia",
+        "model": "Stinger",
+        "bodyType": "sedan",
+        "color": "green",
+        "mileage": 103975,
+        "manufactureYear": 2012,
+        "rentPerDay": 2495.81
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Cruze",
+        "bodyType": "hatchback",
+        "color": "beige",
+        "mileage": 115572,
+        "manufactureYear": 2002,
+        "rentPerDay": 2288.38
+      },
+      {
+        "brand": "Lexus",
+        "model": "LS",
+        "bodyType": "SUV",
+        "color": "black",
+        "mileage": 249379,
+        "manufactureYear": 1991,
+        "rentPerDay": 3192.16
+      },
+      {
+        "brand": "Audi",
+        "model": "Q5",
+        "bodyType": "pickup",
+        "color": "red",
+        "mileage": 349551,
+        "manufactureYear": 1996,
+        "rentPerDay": 2966.13
+      },
+      {
+        "brand": "Tesla",
+        "model": "Model Y",
+        "bodyType": "convertible",
+        "color": "gold",
+        "mileage": 146131,
+        "manufactureYear": 2001,
+        "rentPerDay": 3857.62
+      },
+      {
+        "brand": "Lexus",
+        "model": "RX",
+        "bodyType": "pickup",
+        "color": "black",
+        "mileage": 35351,
+        "manufactureYear": 2022,
+        "rentPerDay": 4989.1
+      }
+    ]
+  }
+]
