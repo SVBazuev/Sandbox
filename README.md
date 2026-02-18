@@ -1,4 +1,4 @@
-# 🚗 120 задача по Java Stream API (на данных parkings.json)
+# 🚗 120 задача по Java Stream API (на parkings.json)
 
 ## 🔰 Базовые операции (1–20)
 1. Вывести в консоль все парковки.
